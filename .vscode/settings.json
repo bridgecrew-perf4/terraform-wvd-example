@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "[powershell]": {
+    "editor.defaultFormatter": "ms-vscode.powershell"
+  },
+  "[terraform]": {
+    "editor.defaultFormatter": "hashicorp.terraform"
+  },
+  "terraform-ls.experimentalFeatures": {
+    "validateOnSave": true
+  }
+}
